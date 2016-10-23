@@ -30,6 +30,9 @@ h3, h4, li, ul {
 
 nav li {
 	margin-left: 10px;
+}
+
+nav a {
 	color: purple;
 }
 
@@ -51,4 +54,13 @@ div li {
 	border: 2px solid black;
 	padding-left: 5px;
 	padding-right: 5px;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
 }
